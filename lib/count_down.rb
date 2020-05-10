@@ -1,9 +1,11 @@
 # Write your code here
 
-counter = 0
-while counter < 10 do
-  counter += 1
+counter = 10
+while counter > 0 do
+  counter -= 1
+  puts counter
 end
+puts "Happy New Year!"
 
 counter = 0
 while counter < 100 do
