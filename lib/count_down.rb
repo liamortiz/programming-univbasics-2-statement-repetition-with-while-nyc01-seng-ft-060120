@@ -13,6 +13,3 @@ while counter < 100 do
   end
 end
 
-while true do
-  puts "AHHHHHH"
-end
